@@ -12,7 +12,7 @@ When you run the game, you will be prompted to choose the game mode: Player vs B
 
 ## Player vs Bot Mode
 
-In this mode, the computer generates a secret code consisting of four colors. The player creates a secret code for the bot to guss and then the player has to guess the secret code by entering four colors. The computer will then give feedback to the player in the form of two colors on a 2x2 grid: the number of correct colors in the correct position as the color black, and the number of correct colors in the wrong position as the color white.
+In this mode, the computer generates a secret code consisting of four colors. The player creates a secret code for the bot to guess and then the player has to guess the secret code by entering four colors. The computer will then give feedback to the player in the form of two colors on a 2x2 grid: the number of correct colors in the correct position as the color black, and the number of correct colors in the wrong position as the color white.
 
 The computer will use a brute-force algorithm to guess the secret code. It will try all possible combinations of colors and use the feedback from the player to eliminate impossible combinations.
 
